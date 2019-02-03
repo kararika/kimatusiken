@@ -30,7 +30,7 @@ setTimeout("surfmoji()",1000);}
 
 function marinmoji(){
   //表示する文字
-var str = "出会える動物たち　ベルーガ  収容人数　約700人";
+var str = "出会える動物たち　バンドウイルカ・カマイルカ  収容人数　約1000人";
 　//テキストボックスの文字数
 var cnt = document.timer14.marinmoji2.value.length;
   //文字が全部表示されているか確認
